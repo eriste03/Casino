@@ -1,0 +1,3 @@
+PyQt6       # For GUI developments
+sqlite3     # Database
+bcrypt      # For hashing passwords
